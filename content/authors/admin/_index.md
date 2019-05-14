@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fluorescence Microscopy
+- Protein Dynamics
+- Bioinformatics and data processing
 
 education:
   courses:
@@ -81,4 +81,4 @@ user_groups:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My aims in research are to apply my experience from Chemistry, Physics and Computer Science to tackle biological questions through fluorescence microsopy.
