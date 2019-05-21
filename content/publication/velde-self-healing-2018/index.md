@@ -1,0 +1,13 @@
+---
+title: "Self-healing dyes for super-resolution fluorescence microscopy"
+date: 2018-11-01
+publishDate: 2019-05-21T16:55:14.313448Z
+authors: ["Jasper H. M. van der Velde", "Jochem H. Smit", "Elke Hebisch", "Michiel Punter", "Thorben Cordes"]
+publication_types: ["2"]
+abstract: "In recent years, optical microscopy techniques have emerged that allow optical imaging at unprecedented resolution beyond the diffraction limit. These techniques exploit photostabilizing buffers to enable photoswitching and/or the enhancement of fluorophore brightness and stability. A major drawback with the use of photostabilizing buffers, however, is that they cannot be used in live cell imaging. In this paper, we tested the performance of self-healing organic fluorophores, which undergo intramolecular photostabilization, in super-resolution microscopy examining both targeted (stimulated emission depletion (STED) microscopy) and stochastic readout (stochastic optical reconstruction microscopy (STORM)). The overall goal of the study was to identify dyes and conditions that lead to improved spatial and temporal resolution of both techniques without the need for mixtures of photostabilizing agents in the imaging buffer. As a result of previously shown superior performance, we identified an ATTO647N-photostabilizer conjugate as a potential candidate for STED microscopy. We have here characterized the photostability and resulting performance of this nitrophenylalanine (NPA) conjugate of ATTO647N on oligonucleotides in STED microscopy. We found that the superior photophysical performance resulted in optimal STED imaging and demonstrated that single-molecule fluorescent transients of individual fluorophores can be obtained with both the excitation- and STED-laser. In similar experiments, we also tested a nitrophenylacetic acid conjugate of STAR635P, another frequently used dye in STED microscopy, and present a characterization of its photophysical properties. Finally, we performed an analysis of the photoswitching kinetics of self-healing Cy5 dyes (containing trolox, cyclooctatetraene and NPA-based stabilizers) in the presence of Tris(2-carboxyethyl)phosphine and cysteamine, which are typically used in STORM microscopy. In line with previous work, we found that intramolecular photostabilization strongly influences photoswitching kinetics and requires careful attention when designing STORM-experiments. In summary, this contribution explores the possibilities and limitations of self-healing dyes in super-resolution microscopy of differing modalities."
+featured: false
+publication: "*Journal of Physics D: Applied Physics*"
+url_pdf: "https://doi.org/10.1088%2F1361-6463%2Faae752"
+doi: "10.1088/1361-6463/aae752"
+---
+
