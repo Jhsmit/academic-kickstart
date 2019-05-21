@@ -12,6 +12,5 @@ doi: "10.1101/608109"
 
 image:
   focal_point: "Center"
-  caption: "caption test"
 ---
 
