@@ -9,5 +9,9 @@ featured: true
 publication: "*bioRxiv*"
 url_pdf: "https://www.biorxiv.org/content/10.1101/608109v1"
 doi: "10.1101/608109"
+
+image:
+  focal_point: "Center"
+  caption: "caption test"
 ---
 
