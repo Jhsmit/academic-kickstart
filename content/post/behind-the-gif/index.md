@@ -3,7 +3,7 @@
 
 title: "Behind the Gif"
 subtitle: ""
-summary: "A post on how to generate dual-color superresolution data and visualize it with iter_subplots"
+summary: "A post on how to use **ColiCoords** to generate dual-colour super-resolution data and visualize the result in Jupyter Notebooks"
 authors: []
 tags: []
 categories: []
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "This is the caption"
+  caption: "Scrolling through data via *iter_subplots*"
   focal_point: ""
   preview_only: false
 
@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+A post on how the GIF above was created. See also on [Jupyter nbviewer](https://nbviewer.jupyter.org/gist/Jhsmit/739e774aeb23c41abf7934608d87ac37)
 
 
 <script src="https://gist.github.com/Jhsmit/739e774aeb23c41abf7934608d87ac37.js"></script>
