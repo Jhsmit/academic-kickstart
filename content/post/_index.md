@@ -14,5 +14,4 @@ header:
 ---
 
 
-<script src="https://gist.github.com/Jhsmit/13d599c991942a24cb283494a9f5878d.js"></script>
 
