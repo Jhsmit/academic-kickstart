@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Biophysics
     institution: Rijksuniversiteit Groningen
-    year: 2012
+    year: 2019
   - course: Msc in Nanoscience
     institution: Rijksuniversiteit Groningen
     year: 2012
