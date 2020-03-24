@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cell_width"
+title: "Cell width from brightfield images"
 subtitle: ""
 summary: "A brief explanation on how to extract the width or radius of a cell from the brightfield image."
 authors: []
@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-A post on how the GIF above was created. See also on [Jupyter nbviewer](https://nbviewer.jupyter.org/gist/Jhsmit/72811eec4e48b4948cb4918b5bbd582a)
+See also on [Jupyter nbviewer](https://nbviewer.jupyter.org/gist/Jhsmit/72811eec4e48b4948cb4918b5bbd582a)
 
 <script src="https://gist.github.com/Jhsmit/72811eec4e48b4948cb4918b5bbd582a.js"></script>
