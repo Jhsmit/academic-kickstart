@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Radius_correlation"
+title: "Radius Correlation"
 subtitle: ""
 summary: "How does the radius measured from brightfield images correlate to the inner membrane radius?"
 authors: []
